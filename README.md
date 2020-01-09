@@ -71,3 +71,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 * create-react-app - https://create-react-app.dev/docs/getting-started/
 * add-redux  - https://medium.com/wineofbits/use-redux-in-your-react-app-in-just-10-minutes-8da6e9f043c5
 * redux dev tool for local development  - https://codeburst.io/redux-devtools-for-dummies-74566c597d7
+* SSR to CRP -  https://medium.com/bucharestjs/upgrading-a-create-react-app-project-to-a-ssr-code-splitting-setup-9da57df2040a
